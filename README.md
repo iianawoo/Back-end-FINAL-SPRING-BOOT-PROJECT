@@ -153,6 +153,6 @@ yaml
 - ✅ Application demonstrates all required features
 
 ---
-🔗 [Swagger UI](http://localhost:8080/swagger-ui.html)
+🔗 [Swagger UI](http://localhost:8080/swagger-ui/index.html)
 
 
